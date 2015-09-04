@@ -8,3 +8,5 @@ kiwi
 date
 melon
 blueberry
+grape
+strawberry
